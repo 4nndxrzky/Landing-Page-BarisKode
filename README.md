@@ -43,8 +43,3 @@ Selama pengerjaan project ini, saya memperdalam pemahaman tentang:
 1.  **Grid vs Flexbox:** Memahami kapan harus menggunakan Grid (untuk struktur 2D yang kompleks) dan kapan menggunakan Flexbox (untuk penyusunan 1D).
 2.  **Tailwind Workflow:** Efisiensi penulisan style langsung di HTML tanpa berpindah file CSS, serta penggunaan utility class untuk spacing (`p`, `m`) dan typography.
 3.  **UI Consistency:** Pentingnya menjaga konsistensi warna dan jarak antar elemen (whitespace) agar desain terlihat profesional.
-
----
-
-**Dibuat oleh 4nndxrzky**
-*Cek repository saya yang lain untuk melihat progress belajar saya!*
